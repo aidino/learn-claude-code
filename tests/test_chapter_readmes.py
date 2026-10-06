@@ -13,17 +13,18 @@ def test_every_chapter_uses_english_as_the_default_readme() -> None:
         assert (chapter / "README.md").is_file()
         assert (chapter / "README.zh.md").is_file()
         assert (chapter / "README.ja.md").is_file()
+        assert (chapter / "README.vi.md").is_file()
         assert not (chapter / "README.en.md").exists()
 
 
 def test_every_chapter_has_the_same_language_navigation() -> None:
     expected = (
         "[English](README.md) · [中文](README.zh.md) · "
-        "[日本語](README.ja.md)"
+        "[日本語](README.ja.md) · [Tiếng Việt](README.vi.md)"
     )
 
     for chapter in CHAPTERS:
-        for filename in ("README.md", "README.zh.md", "README.ja.md"):
+        for filename in ("README.md", "README.zh.md", "README.ja.md", "README.vi.md"):
             lines = (chapter / filename).read_text(encoding="utf-8").splitlines()
             assert lines[2] == expected
 
