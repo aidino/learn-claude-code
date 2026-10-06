@@ -22,7 +22,7 @@
 
 ---
 
-### Nhiệm Vụ 1: Hạ Tầng i18n & Giao Diện Web Tiếng Việt
+### Task 1: Hạ Tầng i18n & Giao Diện Web Tiếng Việt
 
 **Files:**
 - Tạo mới: `web/src/i18n/messages/vi.json`
@@ -57,7 +57,7 @@
 
 ---
 
-### Nhiệm Vụ 2: Dịch Tài Liệu Gốc (Root Documentation)
+### Task 2: Dịch Tài Liệu Gốc (Root Documentation)
 
 **Files:**
 - Tạo mới: `README-vi.md`
@@ -81,7 +81,7 @@
 
 ---
 
-### Nhiệm Vụ 3: Dịch Các Bài Học Nền Tảng (Chapters s01 - s08)
+### Task 3: Dịch Các Bài Học Nền Tảng (Chapters s01 - s08)
 
 **Files:**
 - Tạo mới:
@@ -110,7 +110,7 @@
 
 ---
 
-### Nhiệm Vụ 4: Dịch Các Bài Học Nâng Cao (Chapters s09 - s17)
+### Task 4: Dịch Các Bài Học Nâng Cao (Chapters s09 - s17)
 
 **Files:**
 - Tạo mới:
@@ -140,7 +140,7 @@
 
 ---
 
-### Nhiệm Vụ 5: Dịch 12 Bài Viết Chuyên Sâu (`docs/vi/`)
+### Task 5: Dịch 12 Bài Viết Chuyên Sâu (docs/vi/)
 
 **Files:**
 - Tạo mới thư mục: `docs/vi/`
@@ -172,7 +172,7 @@
 
 ---
 
-### Nhiệm Vụ 6: Kiểm Thử Toàn Diện, Build Web & Nghiệm Thu
+### Task 6: Kiểm Thử Toàn Diện, Build Web & Nghiệm Thu
 
 **Files:**
 - Kiểm tra toàn bộ repo
