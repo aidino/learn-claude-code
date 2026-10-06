@@ -1,6 +1,6 @@
 # s09: Memory — 重要な情報をセッションを越えて残す
 
-[English](README.md) · [中文](README.zh.md) · [日本語](README.ja.md)
+[English](README.md) · [中文](README.zh.md) · [日本語](README.ja.md) · [Tiếng Việt](README.vi.md)
 
 s01 → ... → s07 → s08 → `s09` → [s10](../s10_task_system/) → s11 → ... → s16 → s17
 > *「後のタスクでも使う情報を残す。」* ファイル保存 + index + 関連性の選択 + 必要時の recall。

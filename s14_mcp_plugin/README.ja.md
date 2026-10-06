@@ -1,6 +1,6 @@
 # s14: MCP Tools — 外部ツールの発見と呼び出し
 
-[English](README.md) · [中文](README.zh.md) · [日本語](README.ja.md)
+[English](README.md) · [中文](README.zh.md) · [日本語](README.ja.md) · [Tiếng Việt](README.vi.md)
 
 [s04](../s04_hooks/) → `s14` → [s15](../s15_integrated_harness/) → s16 → s17
 
