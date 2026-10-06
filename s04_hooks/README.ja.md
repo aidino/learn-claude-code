@@ -1,6 +1,6 @@
 # s04: Hooks — ループに掛ける、ループには書き込まない
 
-[English](README.md) · [中文](README.zh.md) · [日本語](README.ja.md)
+[English](README.md) · [中文](README.zh.md) · [日本語](README.ja.md) · [Tiếng Việt](README.vi.md)
 
 s01 → s02 → s03 → `s04` → [s05](../s05_todo_write/) → s06 → ... → s16 → s17
 

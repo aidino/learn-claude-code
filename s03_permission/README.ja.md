@@ -1,6 +1,6 @@
 # s03: Permission — 実行前に権限を判断する
 
-[English](README.md) · [中文](README.zh.md) · [日本語](README.ja.md)
+[English](README.md) · [中文](README.zh.md) · [日本語](README.ja.md) · [Tiếng Việt](README.vi.md)
 
 s01 → s02 → `s03` → [s04](../s04_hooks/) → s05 → ... → s16 → s17
 > *"ツール実行前に権限を判断"* — 権限パイプラインは、どの操作に承認が必要かを決める。
